@@ -264,6 +264,8 @@
     mix-blend-mode:darken;
 }
 
+/*for future space*/
+
 /*mobile view*/
 @media (max-width:482px) {
     *{
